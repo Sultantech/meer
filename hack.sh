@@ -2,7 +2,7 @@
 #Author R y M
 clear
 cd module
-python2 MSB.py
+python2 masuk.py
 
 blue='\033[34;1m'
 green='\033[32;1m'
