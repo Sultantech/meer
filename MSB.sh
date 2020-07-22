@@ -1,8 +1,8 @@
 #!/system/xbin/bash
 #Author R y M
 clear
-cd module
-python2 masuk.py
+cd meer
+python2 MSB.py
 
 blue='\033[34;1m'
 green='\033[32;1m'
