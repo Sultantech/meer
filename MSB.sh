@@ -17,19 +17,19 @@ echo $red "....../ '—___________—-_____]            "
 echo $red "...../_==o;;;;;;;;_______.:/             "
 echo $red ".....), —.(_(__) /                       "
 echo $red "....// (..)),,—-”  ======================= "
-echo $red "...//___//        [ Kumpulan Tool Hack FB ]"
+echo $red "...//___//        [ Sultan Tool Hack FB  ]"
 echo $red "..//___//          ======================= "
 echo $red ".//___//                                 "
 echo ""
 echo $green " ================================= "
-echo $white "[ Author  : R y M                 ]"
-echo $white "[ Team    : Army Cyber Network    ]"
-echo $white "[ Youtube : Maulana RyM           ]"
+echo $white "[ Author  : M S B                 ]"
+echo $white "[ Team    : Baloch Cyber Network    ]"
+echo $white "[ Youtube : Sultan Tech           ]"
 echo $white "[ Fanspage : All Tools Termux     ]"
 echo $green " ================================= "
 echo ""
 echo $cyan"••••••••••••••••••••••••••••••••••••••••••••"
-echo $cyan"#####   Kumpulan Tools Hack Facebook   #####"
+echo $cyan"#####   Sultan Tools Hack Facebook   #####"
 echo $cyan"••••••••••••••••••••••••••••••••••••••••••••"
 echo ""
 echo "\033[36;1m"
@@ -95,7 +95,7 @@ fi
 if [ $lurr = 3 ]
 then
 clear
-figlet "MaulanaRyM"
+figlet "Sultanteh"
 pkg install git
 pkg install curl
 git clone https://github.com/Mr-XsZ/Dark-Fb
@@ -171,7 +171,7 @@ fi
 if [ $lurr = 9 ]
 then
 clear
-figlet "R y M x Pirmanx"
+figlet "M S B x Pirmanx"
 pkg install python2 git -y
 pip2 install mechanize
 git clone https://github.com/MaulanaRyM/MBF
